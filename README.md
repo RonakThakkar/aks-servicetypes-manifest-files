@@ -1,0 +1,1 @@
+# aks-servicetypes-manifest-files
